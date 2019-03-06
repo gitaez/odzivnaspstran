@@ -1,0 +1,40 @@
+#Glava {
+	background-color: #00b3b3;
+	height: 215px;
+	width: 1000px;
+
+}
+.Prvaslika{
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.PrvoBesedilo{
+	text-align: center;
+	color: white;
+
+}
+.DrugoBesedilo{
+	text-align: center;
+}
+#Odzadje{
+	background-color: black;
+	width: 1000px;
+	height: 1000px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+}
+
+#Navigacija{
+	background-color: #d9d9d9;
+    background-size:cover;
+	height: 30px;
+	width: 1000px;
+}
